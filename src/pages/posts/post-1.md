@@ -9,5 +9,3 @@ image:
     alt: 'El logotipo completo de Astro.'
 tags: ["astro", "bloguear", "aprender en público"]
 ---
-
-¡Bienvenido a mi nuevo blog sobre el aprendizaje de Astro! Aquí, voy a compartir mi viaje de aprendizaje a medida que construyo un nuevo sitio web.
